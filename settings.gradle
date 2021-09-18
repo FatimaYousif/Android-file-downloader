@@ -1,0 +1,2 @@
+rootProject.name = "Android file downloader"
+include ':app'
